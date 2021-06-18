@@ -1,0 +1,10 @@
+.columns {
+    column-count: 3;
+    column-width: 50px;
+    column-gap: 25px;
+    column-rule: 3px solid darkred;
+    margin: 5px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 3px;
+}
